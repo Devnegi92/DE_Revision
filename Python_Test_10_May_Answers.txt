@@ -1,3 +1,4 @@
+adhasdhadahsakdaadadjadlas
 1) int() ,float(), str() - this will used to convert the value 
 
 2) type(a)
